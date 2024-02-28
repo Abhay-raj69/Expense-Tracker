@@ -66,9 +66,9 @@ h3 {
 }
 .individual-transaction {
   display: flex;
-
   background-color: #fff;
   color: #212121;
+  /* flex-direction: column; */
 }
 .individual-transaction .left {
   padding: 7px;
